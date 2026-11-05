@@ -20,13 +20,13 @@
 
 ## Screenshots
 
-| Exploration | Battle |
-|---|---|
-| ![Exploration](docs/exploration.png) | ![Battle](docs/battle.png) |
+| Title | Exploration | Minimap |
+|---|---|---|
+| ![Title](docs/screenshots/001-title.png) | ![Exploration](docs/screenshots/007-dungeon-start-facing-east.png) | ![Minimap](docs/screenshots/037-minimap-largely-explored.png) |
 
-| Equipment | Party |
-|---|---|
-| ![Equipment](docs/equip.png) | ![Party](docs/party.png) |
+| Stats | Equipment | Battle target select |
+|---|---|---|
+| ![Stats](docs/screenshots/043-stats-raul.png) | ![Equipment](docs/screenshots/073-equip-necklace-equipped.png) | ![Battle target select](docs/screenshots/103-battle-furgol-fireball-target-select-moved.png) |
 
 The battle screenshot shows empty boxes where enemy and hero sprites would be, because the sprite art is not included in this repository (see Credits).
 
